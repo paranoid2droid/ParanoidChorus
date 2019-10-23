@@ -1,6 +1,6 @@
 # ParanoidChorus
 
-A chorus-like effect based on JUCE.
+A chorus-like effect based on JUCE
 
 
 ## General Parameters
@@ -25,11 +25,11 @@ Try 'em out!
 
 ## Mode Selection
 
-You can choose different "mode" in the mood combo box.
+You can choose different "mode" in the mode combo box.
 
 ![mode combobox](mode.png)
 
-We offer 4 kinds of moods:
+We offer 4 kinds of modes:
 
 * sin
 * saw
