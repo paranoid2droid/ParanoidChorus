@@ -2,6 +2,7 @@
 
 A chorus-like effect based on JUCE
 
+**See video demo [here](https://youtu.be/ECDHRS1kips).**
 
 ## General Parameters
 
